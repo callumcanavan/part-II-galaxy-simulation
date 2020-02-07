@@ -1,7 +1,7 @@
 """
  SIMULATING INTERACTING GALAXIES AND THE FORMATION OF TIDAL TAILS
 
- parabola_test
+ test_parabola
 
  This script provides functions for simulating the parabolic orbit of two 
  point masses about each other and tests that these are accurate to the 
