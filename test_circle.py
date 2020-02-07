@@ -1,7 +1,7 @@
 """
  SIMULATING INTERACTING GALAXIES AND THE FORMATION OF TIDAL TAILS
 
- circle_test
+ test_circle
 
  This script provides functions for simulating the circular orbit of a single 
  star around a single point mass and tests that it can maintain its circular
