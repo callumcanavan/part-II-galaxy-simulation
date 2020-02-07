@@ -1,7 +1,7 @@
 """
  SIMULATING INTERACTING GALAXIES AND THE FORMATION OF TIDAL TAILS
 
- time_test
+ test_time
 
  This script provides a function for calculating g for a group of point
  masses without vectorization (i.e. using loops) and compares the time it takes
