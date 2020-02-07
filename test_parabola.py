@@ -25,7 +25,7 @@ matplotlib.rc('xtick', labelsize=12)
 matplotlib.rc('ytick', labelsize=12) 
 matplotlib.rcParams.update({'font.size': 15})
 
-# useful functions
+# useful functions 
 array = np.array
 zeros = np.zeros
 mag = np.linalg.norm
