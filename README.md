@@ -6,5 +6,5 @@ The whole project can be viewed in the Jupyter notebook while individual parts c
 
 # Depends
 ```
-numpy scipy matplotlib mpl_toolkits
+numpy scipy matplotlib mpl_toolkits time
 ```
