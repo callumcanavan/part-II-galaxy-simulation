@@ -4,9 +4,9 @@ Code used for my computational physics project, "Simulating the Tidal Tails of I
 
 The whole project can be viewed in the Jupyter notebook while individual parts can be found in different .py files. Below are sample snapshots of galaxies interacting in 2D and in 3D.
 
-<img src="https://github.com/callumcanavan/automatic-image-captioning/blob/master/images/2d.png" alt="drawing" width="450"/>
+<img src="https://github.com/callumcanavan/part-II-galaxy-simulation/blob/master/images/2d.png" alt="drawing" width="400"/>
 
-<img src="https://github.com/callumcanavan/automatic-image-captioning/blob/master/images/3d.png" alt="drawing" width="450"/>
+<img src="https://github.com/callumcanavan/part-II-galaxy-simulation/blob/master/images/3d.png" alt="drawing" width="400"/>
 
 # Depends
 ```
